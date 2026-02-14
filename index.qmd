@@ -1,0 +1,62 @@
+---
+title: "Diana Alejandra Pachon"
+subtitle: "Marketing Strategist | MBA Candidate | UX & Visual Designer"
+about:
+  template: trestles
+  image: profile.jpg
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/alejandra-pachon-garzon-marketing/
+    - icon: envelope
+      text: Email
+      href: mailto:dapg_41@hotmail.com
+    - icon: telephone
+      text: "236-268-2203"
+---
+
+## About Me
+
+¡Hola! I am a marketing professional and designer with a deep focus on User Experience (UX). I believe the most effective marketing strategies are built on intuitive, user-centered design. With a dual background in Advertising and Graphic Design, and currently completing my MBA, I bridge the gap between creative intuition and business growth. 
+
+Currently, I am co-founding Moonbow, where we engineer extraordinary digital solutions by blending high-performance tech with strategic marketing. My passion lies in crafting seamless user journeys that not only captivate but also convert, driving measurable results for startups and established brands alike. I am excited to connect with like-minded professionals and explore opportunities to innovate in the digital marketing space.
+
+## Entrepreneurial Leadership
+
+**Co-Founder & Growth Lead | Moonbow** (2025 – Present)
+
+* **Strategic Growth:** Leading the digital growth division, specializing in Google and Meta Ads with engineering precision to generate qualified leads and measurable ROI.
+* **UX & Brand Strategy:** Overseeing the visual identity and user journey for our "Digital Engineering Devshop," ensuring scalable and conversion-optimized interfaces.
+* **Innovative Solutions:** Developing automated social media tech and sales funnel engineering to help startups eliminate repetitive work.
+
+## Experience Highlights
+
+**Digital Marketing Associate (Practicum) | Total Space Inc., BC** (Jan 2026 – Present)
+
+* **UX & Brand Evolution:** Leading brand migration and B2B identity unification.
+* **MarTech Optimization:** Implementing HubSpot workflows and AI-driven chatbots.
+* **Performance Marketing:** Managing Google/Meta Ads with a "video-first" SEO strategy.
+
+**Production Artist | Pure Red (Remote, USA)** (Feb 2023 – July 2024)
+
+* **Design Execution:** Developed digital and print assets for Tier-1 retail clients like Lowe’s.
+* **Workflow Optimization:** Collaborated with cross-functional teams to streamline creative production.
+
+**Content Creator & Marketing Analyst | Sensa Labs (Remote, Canada)** (Sept 2022 – July 2023)
+
+* **UX-Driven Redesign:** Led a corporate website redesign to enhance navigation flow.
+* **Growth Strategy:** Increased returning user engagement by 5% in three months.
+
+## Education
+
+* **Master of Business Administration (MBA)** | University Canada West, Vancouver (Expected 2026).
+  * *Specialized Electives:* Application of AI in Business, E-Commerce, and Digital Marketing Strategies.
+* **B.S. in Advertising & Graphic Design** | Universidad Jorge Tadeo Lozano, Colombia.
+
+## Technical Skills & Certifications
+
+* **Design & UX:** UX Writing, User-Centered Design, Figma, Adobe Creative Suite (Expert), Brand Management.
+* **MarTech & Data:** AI Implementation in Business, Google Analytics (Certified), SEO/SEM, SQL, CRM (HubSpot), JIRA (Agile Scrum).
+* **Business:** Strategic Planning, Market Analysis, Project Management, Sales Funnel Engineering.
+* **Languages:** English (Fluent), Spanish (Native).

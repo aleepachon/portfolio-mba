@@ -1,0 +1,11 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "MBA Portfolio"
+
+format:
+  html:
+    theme: minty
+    
